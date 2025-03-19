@@ -5,6 +5,8 @@ This portfolio website showcases projects, learning journey, and contact details
 GitHub Repository Link:https://github.com/AkshayPai2711/Prodigy_WD_04
 
 Live Demo Link:https://akshaypai2711.github.io/Prodigy_WD_04/
+
+
 Key Features
 ✅ Navigation Bar: A fixed, sleek navbar for quick access to different sections.
 ✅ Hero Section: Displays  profile picture, title, and tagline with animated skill cards.
